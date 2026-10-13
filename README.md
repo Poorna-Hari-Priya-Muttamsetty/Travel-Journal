@@ -1,16 +1,36 @@
-# React + Vite
+# Travel Journal 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based travel journal that displays travel destinations, memorable experiences, and location details in a clean, card-based layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Destination Cards:** Display travel destinations with images and descriptions.
+- **Location Details:** Show destination names, countries, and travel information.
+- **Travel Memories:** Present places visited in an organized journal format.
+- **Reusable Components:** Render multiple destination cards from structured data.
+- **Responsive Layout:** Organize travel entries using CSS layouts.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-## Expanding the ESLint configuration
+## 🧠 Concepts Practiced
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Creating reusable React components
+- Passing data through props
+- Working with arrays of objects
+- Rendering lists using `map()`
+- Destructuring objects and props
+- Using CSS Flexbox for layouts
+- Importing and organizing project assets
+
+## 📚 What I Learned
+
+Improved my understanding of component-based development, props, reusable UI elements, and rendering structured data dynamically in React.
+
+---
+
+Built as part of my React learning journey.
